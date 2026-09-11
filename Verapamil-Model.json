@@ -7131,14 +7131,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Eichelbaum 1984, R-Verapamil 50 mg iv (5 min)|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 5.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
@@ -7392,20 +7384,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Härtter 2012, Verapamil 120 mg SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Härtter 2012, Verapamil 120 mg SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -7836,20 +7814,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Maeda 2011, Verapamil 16 mg po SD (sol), R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 2.0,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Maeda 2011, Verapamil 16 mg po SD (sol), S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 2.0,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
@@ -8205,80 +8169,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Blume, Mutschler 1994, 240 mg po QD (SR), R-Vera|Retard Tablet Verapamil (Knoll)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Blume, Mutschler 1994, 240 mg po QD (SR), R-Vera|Retard Tablet Verapamil (Knoll)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Blume, Mutschler 1994, 240 mg po QD (SR), R-Vera|Retard Tablet Verapamil (Knoll)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Blume, Mutschler 1994, 240 mg po QD (SR), R-Vera|Retard Tablet Verapamil (Knoll)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Blume, Mutschler 1994, 240 mg po QD (SR), R-Vera|Retard Tablet Verapamil (Knoll)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Blume, Mutschler 1994, 240 mg po QD (SR), R-Vera|Retard Tablet Verapamil (Knoll)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Blume, Mutschler 1994, 240 mg po QD (SR), S-Vera|Retard Tablet Verapamil (Knoll)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Blume, Mutschler 1994, 240 mg po QD (SR), S-Vera|Retard Tablet Verapamil (Knoll)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Blume, Mutschler 1994, 240 mg po QD (SR), S-Vera|Retard Tablet Verapamil (Knoll)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Blume, Mutschler 1994, 240 mg po QD (SR), S-Vera|Retard Tablet Verapamil (Knoll)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Blume, Mutschler 1994, 240 mg po QD (SR), S-Vera|Retard Tablet Verapamil (Knoll)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Blume, Mutschler 1994, 240 mg po QD (SR), S-Vera|Retard Tablet Verapamil (Knoll)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
@@ -8607,20 +8497,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Mooy 1985, Verapamil 3mg iv (5min) SD, R-Vera|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 5.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Mooy 1985, Verapamil 3mg iv (5min) SD, S-Vera|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 5.0,
-          "Unit": "min",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -8963,20 +8839,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Mooy 1985, Verapamil 80mg po SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Mooy 1985, Verapamil 80mg po SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -9374,20 +9236,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Streit 2005, Verapamil 5mg iv (10min) SD, R-Vera|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 10.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Streit 2005, Verapamil 5mg iv (10min) SD, S-Vera|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 10.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
@@ -9744,20 +9592,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Johnston 1981, Verapamil 0.1mg/kg iv (5min) SD, R-Vera|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 5.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Johnston 1981, Verapamil 0.1mg/kg iv (5min) SD, S-Vera|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 5.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
@@ -10100,20 +9934,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Johnston 1981, Verapamil 120mg po SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Johnston 1981, Verapamil 120mg po SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -10484,20 +10304,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Barbarash 1988, Verapamil 10mg iv (10min) SD, R-Vera|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 10.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Barbarash 1988, Verapamil 10mg iv (10min) SD, S-Vera|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 10.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
@@ -10825,20 +10631,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|McAllister, Kirsten 1982, Verapamil 10mg iv (5min) SD, R-Vera|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 5.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|McAllister, Kirsten 1982, Verapamil 10mg iv (5min) SD, S-Vera|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 5.0,
-          "Unit": "min",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -11194,20 +10986,6 @@
               "ValueOrigin": {}
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Freedman 1981, Verapamil 13.1mg iv (13min) SD, R-Vera|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 13.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Freedman 1981, Verapamil 13.1mg iv (13min) SD, S-Vera|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 13.0,
-          "Unit": "min",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -11575,20 +11353,6 @@
               "ValueOrigin": {}
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Abernethy 1993, Verapamil 20mg iv (30min) SD, R-Vera|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 30.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Abernethy 1993, Verapamil 20mg iv (30min) SD, S-Vera|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 30.0,
-          "Unit": "min",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -11972,14 +11736,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Vogelgesang 1984, R-Verapamil 250mg po SD|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
@@ -12256,20 +12012,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Maeda 2011, Verapamil 0.1 mg po SD (sol), R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 2.0,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Maeda 2011, Verapamil 0.1 mg po SD (sol), S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 2.0,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -12656,20 +12398,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Maeda 2011, Verapamil 3 mg po SD (sol), R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 2.0,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Maeda 2011, Verapamil 3 mg po SD (sol), S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 2.0,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
@@ -13052,20 +12780,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Maeda 2011, Verapamil 80 mg po SD (sol), R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 2.0,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Maeda 2011, Verapamil 80 mg po SD (sol), S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 2.0,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
@@ -13421,20 +13135,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|John 1992, Verapamil 40mg po (tab) SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|John 1992, Verapamil 40mg po (tab) SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
@@ -13787,20 +13487,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Sawicki, Janicki 2002, Verapamil 40mg po (tab) SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Sawicki, Janicki 2002, Verapamil 40mg po (tab) SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -14172,20 +13858,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Choi 2008, Verapamil 60 mg po (caps) SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Choi 2008, Verapamil 60 mg po (caps) SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
@@ -14553,20 +14225,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Ratiopharm 1988, Verapamil 80mg po SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Ratiopharm 1988, Verapamil 80mg po SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -14938,32 +14596,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Ratiopharm 1989, Verapamil 80mg (2 40mg tabs) po SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Ratiopharm 1989, Verapamil 80mg (2 40mg tabs) po SD, R-Vera|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Ratiopharm 1989, Verapamil 80mg (2 40mg tabs) po SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Ratiopharm 1989, Verapamil 80mg (2 40mg tabs) po SD, S-Vera|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
@@ -15331,92 +14963,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Johnson 2001, Verapamil 80mg po tid 7rep, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Johnson 2001, Verapamil 80mg po tid 7rep, R-Vera|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Johnson 2001, Verapamil 80mg po tid 7rep, R-Vera|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Johnson 2001, Verapamil 80mg po tid 7rep, R-Vera|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Johnson 2001, Verapamil 80mg po tid 7rep, R-Vera|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Johnson 2001, Verapamil 80mg po tid 7rep, R-Vera|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Johnson 2001, Verapamil 80mg po tid 7rep, R-Vera|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Johnson 2001, Verapamil 80mg po tid 7rep, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Johnson 2001, Verapamil 80mg po tid 7rep, S-Vera|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Johnson 2001, Verapamil 80mg po tid 7rep, S-Vera|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Johnson 2001, Verapamil 80mg po tid 7rep, S-Vera|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Johnson 2001, Verapamil 80mg po tid 7rep, S-Vera|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Johnson 2001, Verapamil 80mg po tid 7rep, S-Vera|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Johnson 2001, Verapamil 80mg po tid 7rep, S-Vera|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -15788,20 +15334,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Boehringer 2018, Verapamil 120mg po (IR tab) SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Boehringer 2018, Verapamil 120mg po (IR tab) SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -16251,92 +15783,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Härtter 2012, Verapamil 120 mg bid, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Härtter 2012, Verapamil 120 mg bid, R-Vera|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Härtter 2012, Verapamil 120 mg bid, R-Vera|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Härtter 2012, Verapamil 120 mg bid, R-Vera|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Härtter 2012, Verapamil 120 mg bid, R-Vera|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Härtter 2012, Verapamil 120 mg bid, R-Vera|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Härtter 2012, Verapamil 120 mg bid, R-Vera|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Härtter 2012, Verapamil 120 mg bid, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Härtter 2012, Verapamil 120 mg bid, S-Vera|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Härtter 2012, Verapamil 120 mg bid, S-Vera|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Härtter 2012, Verapamil 120 mg bid, S-Vera|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Härtter 2012, Verapamil 120 mg bid, S-Vera|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Härtter 2012, Verapamil 120 mg bid, S-Vera|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Härtter 2012, Verapamil 120 mg bid, S-Vera|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
@@ -16764,20 +16210,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
@@ -17132,236 +16564,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, R-Vera|Solution|Application_10|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, R-Vera|Solution|Application_11|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, R-Vera|Solution|Application_12|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, R-Vera|Solution|Application_13|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, R-Vera|Solution|Application_14|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, R-Vera|Solution|Application_15|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, R-Vera|Solution|Application_16|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, R-Vera|Solution|Application_17|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, R-Vera|Solution|Application_18|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, R-Vera|Solution|Application_19|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, R-Vera|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, R-Vera|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, R-Vera|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, R-Vera|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, R-Vera|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, R-Vera|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, R-Vera|Solution|Application_8|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, R-Vera|Solution|Application_9|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, S-Vera|Solution|Application_10|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, S-Vera|Solution|Application_11|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, S-Vera|Solution|Application_12|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, S-Vera|Solution|Application_13|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, S-Vera|Solution|Application_14|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, S-Vera|Solution|Application_15|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, S-Vera|Solution|Application_16|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, S-Vera|Solution|Application_17|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, S-Vera|Solution|Application_18|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, S-Vera|Solution|Application_19|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, S-Vera|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, S-Vera|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, S-Vera|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, S-Vera|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, S-Vera|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, S-Vera|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, S-Vera|Solution|Application_8|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Hla 1987, Verapamil 120mg po (tab) MD, S-Vera|Solution|Application_9|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -17719,68 +16921,6 @@
               "ValueOrigin": {}
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|van Haarst 2009, Verapamil 180mg PO BID 3days, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|van Haarst 2009, Verapamil 180mg PO BID 3days, R-Vera|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|van Haarst 2009, Verapamil 180mg PO BID 3days, R-Vera|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|van Haarst 2009, Verapamil 180mg PO BID 3days, R-Vera|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|van Haarst 2009, Verapamil 180mg PO BID 3days, R-Vera|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|van Haarst 2009, Verapamil 180mg PO BID 3days, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|van Haarst 2009, Verapamil 180mg PO BID 3days, S-Vera|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|van Haarst 2009, Verapamil 180mg PO BID 3days, S-Vera|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|van Haarst 2009, Verapamil 180mg PO BID 3days, S-Vera|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|van Haarst 2009, Verapamil 180mg PO BID 3days, S-Vera|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -18157,20 +17297,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Blume, Mutschler 1989, Verapamil 80mg po SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 2.0,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Blume, Mutschler 1989, Verapamil 80mg po SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 2.0,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
@@ -18522,20 +17648,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Blume, Mutschler 1987, Verapamil 120mg po SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Blume, Mutschler 1987, Verapamil 120mg po SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -18891,20 +18003,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Blume, Mutschler 1990, Verapamil 40mg po SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Blume, Mutschler 1990, Verapamil 40mg po SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
@@ -19256,20 +18354,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Blume, Mutschler 1983, Verapamil 40mg po SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Blume, Mutschler 1983, Verapamil 40mg po SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -19653,14 +18737,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Eichelbaum 1984, R-Verapamil 5 mg iv (5 min)|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 5.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
@@ -19915,14 +18991,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Eichelbaum 1984, R-Verapamil 25 mg iv (5 min)|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 5.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
@@ -20173,14 +19241,6 @@
               "ValueOrigin": {}
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Eichelbaum 1984, S-Verapamil 5 mg iv (5 min)|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 5.0,
-          "Unit": "min",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -20442,14 +19502,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Eichelbaum 1984, S-Verapamil 7.5 mg iv (5 min)|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 5.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|S-Verapamil|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|S-Norverapamil|Plasma (Peripheral Venous Blood)",
@@ -20709,14 +19761,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Eichelbaum 1984, S-Verapamil 10 mg iv (5 min)|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 5.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|S-Verapamil|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|S-Norverapamil|Plasma (Peripheral Venous Blood)",
@@ -20974,68 +20018,6 @@
               "ValueOrigin": {}
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Backman 1994, Verapamil 80mg po TID, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 2.0,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Backman 1994, Verapamil 80mg po TID, R-Vera|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 2.0,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Backman 1994, Verapamil 80mg po TID, R-Vera|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 2.0,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Backman 1994, Verapamil 80mg po TID, R-Vera|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 2.0,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Backman 1994, Verapamil 80mg po TID, R-Vera|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 2.0,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Backman 1994, Verapamil 80mg po TID, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 2.0,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Backman 1994, Verapamil 80mg po TID, S-Vera|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 2.0,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Backman 1994, Verapamil 80mg po TID, S-Vera|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 2.0,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Backman 1994, Verapamil 80mg po TID, S-Vera|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 2.0,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Backman 1994, Verapamil 80mg po TID, S-Vera|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 2.0,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -21395,20 +20377,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|McAllister 1982, Verapamil 80mg po SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|McAllister 1982, Verapamil 80mg po SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
@@ -21760,20 +20728,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|McAllister 1982, Verapamil 120 mg SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|McAllister 1982, Verapamil 120 mg SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -22130,20 +21084,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|McAllister 1982, Verapamil 160mg po SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|McAllister 1982, Verapamil 160mg po SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -22528,188 +21468,6 @@
               "ValueOrigin": {}
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, R-Vera|Solution|Application_10|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, R-Vera|Solution|Application_11|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, R-Vera|Solution|Application_12|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, R-Vera|Solution|Application_13|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, R-Vera|Solution|Application_14|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, R-Vera|Solution|Application_15|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, R-Vera|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, R-Vera|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, R-Vera|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, R-Vera|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, R-Vera|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, R-Vera|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, R-Vera|Solution|Application_8|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, R-Vera|Solution|Application_9|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, S-Vera|Solution|Application_10|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, S-Vera|Solution|Application_11|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, S-Vera|Solution|Application_12|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, S-Vera|Solution|Application_13|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, S-Vera|Solution|Application_14|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, S-Vera|Solution|Application_15|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, S-Vera|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, S-Vera|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, S-Vera|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, S-Vera|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, S-Vera|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, S-Vera|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, S-Vera|Solution|Application_8|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 120mg PO BID, S-Vera|Solution|Application_9|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -23105,104 +21863,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 240mg PO MD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 240mg PO MD, R-Vera|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 240mg PO MD, R-Vera|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 240mg PO MD, R-Vera|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 240mg PO MD, R-Vera|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 240mg PO MD, R-Vera|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 240mg PO MD, R-Vera|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 240mg PO MD, R-Vera|Solution|Application_8|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 240mg PO MD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 240mg PO MD, S-Vera|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 240mg PO MD, S-Vera|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 240mg PO MD, S-Vera|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 240mg PO MD, S-Vera|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 240mg PO MD, S-Vera|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 240mg PO MD, S-Vera|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Jorgensen 1988, Verapamil 240mg PO MD, S-Vera|Solution|Application_8|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
@@ -23570,20 +22230,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Karim 1995, Verapamil 240mg PO SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Karim 1995, Verapamil 240mg PO SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -23964,92 +22610,6 @@
               "ValueOrigin": {}
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Shand 1981, Verapamil 120 mg TID, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Shand 1981, Verapamil 120 mg TID, R-Vera|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Shand 1981, Verapamil 120 mg TID, R-Vera|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Shand 1981, Verapamil 120 mg TID, R-Vera|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Shand 1981, Verapamil 120 mg TID, R-Vera|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Shand 1981, Verapamil 120 mg TID, R-Vera|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Shand 1981, Verapamil 120 mg TID, R-Vera|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Shand 1981, Verapamil 120 mg TID, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Shand 1981, Verapamil 120 mg TID, S-Vera|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Shand 1981, Verapamil 120 mg TID, S-Vera|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Shand 1981, Verapamil 120 mg TID, S-Vera|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Shand 1981, Verapamil 120 mg TID, S-Vera|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Shand 1981, Verapamil 120 mg TID, S-Vera|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Shand 1981, Verapamil 120 mg TID, S-Vera|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -24732,20 +23292,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Smith 1984, Verapamil 120mg po SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Smith 1984, Verapamil 120mg po SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
@@ -25070,20 +23616,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Wing 1985, Verapamil 10mg iv (10min) SD, R-Vera|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 10.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Wing 1985, Verapamil 10mg iv (10min) SD, S-Vera|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 10.0,
-          "Unit": "min",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -25413,20 +23945,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Wing 1985, Verapamil 80mg po SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Wing 1985, Verapamil 80mg po SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -25769,20 +24287,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Mikus 1990, Verapamil 160mg po (sol) SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Mikus 1990, Verapamil 160mg po (sol) SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -26153,20 +24657,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Abernethy 1985, Verapamil 10mg iv (10min) SD, R-Vera|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 10.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Abernethy 1985, Verapamil 10mg iv (10min) SD, S-Vera|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 10.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
@@ -26524,20 +25014,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Barbarash 1988, Verapamil 120mg po SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Barbarash 1988, Verapamil 120mg po SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
@@ -26891,20 +25367,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Abernethy 1985, Verapamil 120mg po SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Abernethy 1985, Verapamil 120mg po SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [

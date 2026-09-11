@@ -1,6 +1,7 @@
 {
   "Name": "Verapamil-Model",
   "Version": 81,
+  "ApplicationName": "PK-Sim",
   "ExpressionProfiles": [
     {
       "Type": "Transporter",
@@ -41112,6 +41113,5 @@
         "po_Verapamil 120mg PO TID 7rep, Shand 1981, n=6"
       ]
     }
-  ],
-  "ApplicationName": "PK-Sim"
+  ]
 }
